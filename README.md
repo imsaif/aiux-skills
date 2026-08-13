@@ -1,4 +1,4 @@
-# AI UX Skills
+# AI UX Skills for Agents
 
 38 Claude Code skills, one per AI UX design pattern, generated from [aiuxdesign.guide](https://aiuxdesign.guide/?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills).
 
