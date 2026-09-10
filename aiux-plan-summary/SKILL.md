@@ -9,11 +9,11 @@ Why it matters: While Intent Preview shows what the agent will do, users also ne
 
 ## The moves
 
-1. Keep the plan summary concise by default  -  full reasoning available on expansion. Most users want the 3-line version, not the 30-line version.
-2. Surface assumptions as interactive elements  -  users should be able to correct assumptions before execution begins.
-3. Update the plan in real-time during execution. Show completed steps, current step, and remaining steps with a progress indicator.
-4. When the agent deviates from the original plan due to unexpected findings, highlight the deviation and explain why.
-5. Allow users to save good plans as templates for future similar tasks.
+1. **Lead with how the goal was read, not what will be done.** 'Research competitor pricing' can mean three different jobs. One sentence naming which one the agent chose catches more bad runs than a twelve-item checklist, because that is the step where the misunderstanding actually happens.
+2. **If the user cannot edit it, it is not a plan.** Approve and Cancel is a two-button loading screen. Cancel means losing the work and starting again, so people approve. Make each assumption a field they can change in place, and regenerate the affected steps when they do.
+3. **Assumptions are the payload. Everything else is packaging.** Users cannot judge whether a strategy is optimal, but they can instantly spot 'assumed you meant the UK market' being wrong. Put the assumptions where the eye lands first, not in an expandable section under the checklist.
+4. **Say which step is the last free exit.** Mark the subtasks that cannot be undone and name the point after which stopping costs something. A plan that reads as uniformly safe gets approved with the same attention whether step four sends email to customers or writes to a scratch file.
+5. **Keep the plan alive while it runs.** Replacing it with a progress bar throws away the thing that made it useful. When a step disproves an assumption, show that against the plan, so the user sees the moment the approach stopped matching reality rather than reading it in the summary afterwards.
 
 Reference: https://aiuxdesign.guide/patterns/plan-summary
 

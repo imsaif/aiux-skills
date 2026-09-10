@@ -9,11 +9,11 @@ Why it matters: Complex AI systems overwhelm users with too many options, causin
 
 ## The moves
 
-1. Start simple; gradually introduce complexity.
-2. Show clear progress indicators and next steps.
-3. Use contextual hints for unfamiliar concepts.
-4. Allow skipping ahead or revisiting steps.
-5. Provide immediate feedback on user actions.
+1. **The tutorial should end with something real in their account.** Not a congratulations screen. A working project, a first result, a configured setup. If the flow produces nothing but a completion badge, the user has practised clicking Next and learned the product no better than before they started.
+2. **Teach the decision, not where the button is.** Button locations are discoverable. Knowing which option to pick and why is not. Any step that highlights a control without naming the choice behind it should be removed and done for the user instead.
+3. **A tutorial is often a bug report about the interface.** If a screen needs explaining, the cheap move is a walkthrough and the right move is usually fixing the screen. The walkthrough has to be maintained every time the UI changes, and it hides the evidence that something is wrong.
+4. **Make leaving free.** Skip has to be as prominent as Next and has to keep the work done so far. The moment exiting costs progress, people finish the flow to protect their work rather than because it is helping them, and your completion metric stops meaning anything.
+5. **Measure whether they can do it again alone.** The only honest test is unaided repeat performance, compared against people who skipped the tutorial. Completion rate measures how well you built a corridor, not whether anyone can walk without it.
 
 Reference: https://aiuxdesign.guide/patterns/guided-learning
 
