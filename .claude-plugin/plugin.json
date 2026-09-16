@@ -1,7 +1,7 @@
 {
   "name": "aiux",
   "description": "38 AI UX design patterns as skills, one per pattern. Each carries the symptoms it applies to and the interface moves that make it real, distilled from shipped AI products: showing reasoning, asking before acting, recovering from wrong answers, handing off to a person.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": "Imran Mohammed",
     "url": "https://aiuxdesign.guide"

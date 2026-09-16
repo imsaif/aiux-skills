@@ -12,7 +12,7 @@
       "name": "aiux",
       "source": "./",
       "description": "38 AI UX design patterns as skills: chat and conversational interfaces, agent autonomy and status, confidence and explainability, error recovery, human handoff, and more. Triggers on its own when your work matches a pattern.",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "category": "design",
       "keywords": [
         "ai",
