@@ -1,6 +1,6 @@
 ---
 name: aiux-predictive-anticipation
-description: "Use when the product should act before the user asks: suggesting next actions, pre-loading likely content, 'it should know what I need next', smart defaults from behavior. Predictive Anticipation moves the product from reactive to anticipatory."
+description: "Use when the product should act before the user asks, or when it already anticipates too much: suggesting next actions, pre-loading likely content, 'it should know what I need next', smart defaults from behavior. Equally, when the prediction itself is the complaint: 'it keeps autofilling things nobody asked for', fields pre-filled with the wrong guess, an action committed that should only have been staged. This is the pattern for pre-filling and pre-staging the user's next step, not for background sensing (Ambient Intelligence) or inline tips (Contextual Assistance)."
 ---
 
 # Predictive Anticipation
