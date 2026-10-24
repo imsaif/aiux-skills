@@ -15,6 +15,6 @@ Why it matters: AI safety weakens during extended conversations - the system bec
 4. **A break has to be honest about why.** Generic timeout copy in a sensitive conversation reads as rejection at the worst possible moment. Say what happened, keep their context so nothing is lost, and offer a human route where one exists.
 5. **Design for the person who will not stop on their own.** This pattern exists for sessions where the user's own judgment about when to stop is the thing that has been compromised. Defaults set for a healthy user at message ten are the wrong defaults at hour four, and hour four is the case that put this pattern on the list.
 
-Reference: https://aiuxdesign.guide/patterns/session-degradation-prevention
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/session-degradation-prevention

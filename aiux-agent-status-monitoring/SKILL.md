@@ -15,6 +15,6 @@ Why it matters: Traditional loading indicators don't work for agentic tasks that
 4. **Don't make them babysit it.** If the user has to keep the status panel open and watch it to feel safe, your ambient layer has failed. The promise of this pattern is that they can walk away and trust they'll be pulled back exactly when, and only when, they're needed.
 5. **Auto-dismiss the noise, keep the record.** Completed tasks should clear themselves so the surface doesn't silt up with finished work. But 'dismissed from view' is not 'gone': everything the agent did belongs in the audit trail, where the user can reconstruct what happened after the badge is long gone.
 
-Reference: https://aiuxdesign.guide/patterns/agent-status-monitoring
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/agent-status-monitoring

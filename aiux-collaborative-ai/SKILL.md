@@ -15,6 +15,6 @@ Why it matters: Teams need effective AI collaboration while maintaining coordina
 4. **Don't manufacture collaboration for a solo call.** Forcing a group ritual onto a one-person decision adds latency and diffuses ownership without adding judgment. Collaborative AI is for genuinely shared work. If the decision is one person's, give them a sharp assistant, not a committee.
 5. **Keep a named human on the hook.** For any group decision the AI touches, name the person accountable for the outcome. The AI's role is input; the sign-off is a human's. Make that ownership visible so the AI's agreement can never quietly stand in for the team's.
 
-Reference: https://aiuxdesign.guide/patterns/collaborative-ai
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/collaborative-ai

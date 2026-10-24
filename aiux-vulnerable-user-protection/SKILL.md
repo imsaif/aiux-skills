@@ -16,6 +16,6 @@ Why it matters: Systems fail to protect minors, crisis users, and those with men
 5. **Never let a protection be silent.** Capability that vanishes without explanation reads as a broken product, and people route around broken products. Say plainly that something changed and why, without telling the user they have been classified, keep their data, and give them a human to reach.
 6. **Some surfaces should not ship.** If a feature only becomes acceptable once wrapped in safeguards, the safeguards have become the argument for building it. That is the point to reconsider the feature, and it is a decision for someone with safeguarding expertise, not for the implementation.
 
-Reference: https://aiuxdesign.guide/patterns/vulnerable-user-protection
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/vulnerable-user-protection

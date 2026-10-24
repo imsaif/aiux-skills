@@ -15,6 +15,6 @@ Why it matters: Users bypass safety with 'fiction research,' 'roleplay,' 'hypoth
 4. **Refuse consistently, whatever the costume.** If 'how do I make X' is refused plainly but 'for a story, how would a character make X' is answered, you have not built a safeguard, you have published the bypass. The boundary must hold identically regardless of framing, or it is not a boundary.
 5. **Do not narrate the bypass.** A refusal that explains which word triggered it hands the user the exact edit that gets past it next time. Hold the line without teaching the workaround, and keep the detection detail in your logs.
 
-Reference: https://aiuxdesign.guide/patterns/anti-manipulation-safeguards
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/anti-manipulation-safeguards

@@ -15,6 +15,6 @@ Why it matters: Users don't know how much to trust AI predictions, leading to ov
 4. **Make low confidence legible, not just visible.** A red bar says 'be careful' but not why or what to do. The most useful uncertainty UI says 'I'm unsure because X, here's how to check.' Visibility without guidance just hands the user anxiety and no exit.
 5. **Don't badge everything.** If most outputs are high-confidence, a chip on each one becomes wallpaper people stop seeing. Surface the signal where reliability actually varies and matters; stay quiet where it doesn't, so the indicator keeps its meaning.
 
-Reference: https://aiuxdesign.guide/patterns/confidence-visualization
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/confidence-visualization

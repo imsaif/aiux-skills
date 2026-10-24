@@ -15,6 +15,6 @@ Why it matters: After an agent has acted across multiple steps or systems, users
 4. **Reversibility is information the user needs before they act.** Color-code reversible, partial, and irreversible so the user knows what's recoverable at a glance, and let them undo one action without unwinding the whole chain. When undoing step three breaks steps four and five, warn them before they confirm. Selective undo with honest cascade warnings is what makes review actionable.
 5. **Build the log to be read, not just written.** The failure mode is the write-only log: perfectly complete, perfectly unreadable. Diligence at write time means nothing if the trail collapses under the one question it exists to answer. Test it the way it'll be used: hand someone the incident and a deadline, and see if the trail helps or just proves you stored something.
 
-Reference: https://aiuxdesign.guide/patterns/action-audit-trail
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/action-audit-trail

@@ -15,6 +15,6 @@ Why it matters: Users feel trapped by automation or lose progress when switching
 4. **Make it reversible, and resume from state.** A good handoff goes both ways: the human can take over and hand back, with the AI resuming from where things actually are, not restarting from zero. A one-way handoff that loses progress on the round trip just teaches users never to take over.
 5. **Choose the moment, don't let the failure choose it.** The best handoffs happen at safe checkpoints, between steps, at natural pauses, not at the instant of breakdown. If the only time you can hand off is the moment the AI fails, that is a design bug to fix, not a transition to polish.
 
-Reference: https://aiuxdesign.guide/patterns/graceful-handoff
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/graceful-handoff

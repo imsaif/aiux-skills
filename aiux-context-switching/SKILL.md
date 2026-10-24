@@ -15,6 +15,6 @@ Why it matters: Users frequently switch between different tasks, topics, or proj
 4. **Stale context is worse than no context.** A fact that was true last week, resurfaced as current, is a confident lie. Timestamp what you remember and let it decay, or you'll keep answering today's question with yesterday's truth.
 5. **Default to a clean break when the switch is real.** Not every topic change needs a saved, named, synced thread. When tasks are genuinely independent, a fresh start beats the overhead of managing contexts nobody comes back to.
 
-Reference: https://aiuxdesign.guide/patterns/context-switching
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/context-switching

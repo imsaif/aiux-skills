@@ -15,6 +15,6 @@ Why it matters: Traditional AI is turn-based - either human or AI is in control.
 4. **Surface conflicts, never auto-merge.** When you and the agent both changed the same thing, show it and let the human decide. A silent merge feels clever until it quietly overwrites the sentence someone watched themselves type. The cost of a visible conflict prompt is seconds. The cost of a silent one is trust.
 5. **Keep a visible activity log.** Mixed initiative without attribution is just confusion with extra cursors. A running 'AI updated the headline / you took over the CTA' log lets the human reconstruct who did what, which is the whole reason shared control is safe to use at all.
 
-Reference: https://aiuxdesign.guide/patterns/mixed-initiative-control
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/mixed-initiative-control

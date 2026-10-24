@@ -15,6 +15,6 @@ Why it matters: Fully automated AI systems risk critical errors and lack transpa
 4. **Give the reviewer enough to overrule, not just to agree.** Confidence, reason, and the raw content the user saw are the minimum. A reviewer who only sees the AI's verdict will defer to it every time. Show the work behind the call so a human can disagree with it.
 5. **A rubber stamp is worse than honest automation.** Full automation at least admits no one looked. A review queue people click through manufactures a 'human-approved' record on top of an unreviewed decision and parks a person in the blame seat. If you can't make the review real, don't fake it: automate openly and own the risk.
 
-Reference: https://aiuxdesign.guide/patterns/human-in-the-loop
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/human-in-the-loop

@@ -15,6 +15,6 @@ Why it matters: Users are increasingly concerned about AI systems collecting and
 4. **Process on the device whenever the feature allows it.** Data that never leaves the user's machine can't leak, can't be subpoenaed, and can't be repurposed later. On-device is slower for heavy tasks, so reserve the cloud for what genuinely needs it and make that boundary visible, not implied.
 5. **Name the trade-off at the control, in plain language.** 'Improve your experience' is not consent, it is cover. State what stops working when a setting is off and exactly what data it uses when on. If you can't name a concrete benefit for collecting something, that's your answer: don't collect it.
 
-Reference: https://aiuxdesign.guide/patterns/privacy-first-design
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/privacy-first-design

@@ -15,6 +15,6 @@ Why it matters: Users want to experiment with AI capabilities but fear mistakes 
 4. **Make the boundary a place, not a badge.** Users do not read status chips. Frame the whole surface, keep it visible without scrolling, and make the exit control look nothing like the button that does the real thing. Every mode error in a sandbox is a design failure, not a user error.
 5. **Let the work leave the sandbox.** If a good result has to be recreated by hand in production, people stop practising and go straight to the real thing. One button that promotes the exact input to a real run is what turns a demo into a habit.
 
-Reference: https://aiuxdesign.guide/patterns/safe-exploration
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/safe-exploration

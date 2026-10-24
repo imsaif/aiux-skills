@@ -15,6 +15,6 @@ Why it matters: Traditional graphical interfaces require users to learn specific
 4. **Design the misunderstanding, not just the happy path.** A specific clarifying question beats a generic error every time. 'Did you mean X or Y?' keeps the user moving; 'I didn't understand that' sends them away. The recovery turn is where trust is won or lost.
 5. **Always give an exit.** When the AI hits its limit, hand off to a human or a structured flow with the context preserved. A conversation the user can't escape, and has to restart by repeating themselves, is worse than the form you replaced.
 
-Reference: https://aiuxdesign.guide/patterns/conversational-ui
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/conversational-ui

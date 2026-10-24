@@ -15,6 +15,6 @@ Why it matters: Static interfaces treat all users identically, leading to ineffi
 4. **Make adaptation visible and reversible.** Say what changed and why ('moved up because you use it daily'), and give a one-click 'put it back' and a way to stop adapting. Silent rearrangement feels like the app is broken, even when the change is technically right.
 5. **Start from a good default, then ease in.** Adaptation is a refinement on a layout that already works for a newcomer, not a substitute for designing one. Introduce changes gradually so the ground shifts slowly enough to follow.
 
-Reference: https://aiuxdesign.guide/patterns/adaptive-interfaces
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/adaptive-interfaces

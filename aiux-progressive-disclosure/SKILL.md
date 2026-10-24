@@ -15,6 +15,6 @@ Why it matters: Complex AI features shown all at once can overwhelm users, causi
 4. **Default to the data, not to white space.** What you hide by default should be driven by real usage, not a designer's taste for empty margins. Watch the analytics: if people keep expanding to reach the same thing, it has earned a place in the visible layer. Promote it.
 5. **Reveal at the moment of need, in context.** The best disclosure appears right where and when the user needs it, next to the thing it expands, not in a distant settings menu. Proximity is what makes depth feel effortless instead of buried.
 
-Reference: https://aiuxdesign.guide/patterns/progressive-disclosure
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/progressive-disclosure

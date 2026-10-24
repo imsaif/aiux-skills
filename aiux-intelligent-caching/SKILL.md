@@ -15,6 +15,6 @@ Why it matters: AI systems often require significant computational resources and
 4. **The cache key is a security boundary.** If a result depends on who's asking, the key must too. Caching a personalized or permission-gated answer on the query alone, then replaying it to the next person, is a data leak dressed as a performance optimization. Audit your keys before you audit your hit rate.
 5. **Serve stale, refresh behind it.** When an answer is past its freshness window but not yet wrong, you don't have to choose between slow and stale. Return the cached value instantly, recompute in the background, and mark it stale while you do. The user gets speed now and truth a moment later, and never mistakes one for the other.
 
-Reference: https://aiuxdesign.guide/patterns/intelligent-caching
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/intelligent-caching

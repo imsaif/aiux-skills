@@ -15,6 +15,6 @@ Why it matters: When an agent is about to take a multi-step action, users need t
 4. **Make it editable, or it's just a confirmation dialog.** The value of a preview is catching the misunderstanding before it executes. If the only options are approve and reject, you've reproduced the yes/no you were trying to replace. Let users drop a step or fix a recipient in place.
 5. **Record what was shown next to what ran.** Persist the previewed plan alongside the executed actions. If they ever diverge, that's the incident that proves your preview was honest, or proves it wasn't. Without that record, you can't tell a real approval from an alibi.
 
-Reference: https://aiuxdesign.guide/patterns/intent-preview
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/intent-preview

@@ -15,6 +15,6 @@ Why it matters: Users need guidance but often don't know what or when to ask. Tr
 4. **Measure what you withhold, not just what you show.** Accept-rate per surface is the honest metric. Coverage ('we suggested something 90% of the time') is how this pattern rots: it rewards volume, which is exactly the cost that compounds. A surface with many shows and few accepts is noise to cut, not a win to report.
 5. **Let the user turn it down.** Someone who dismisses the same suggestion three times is telling you to stop. Give every stream a volume control and persist it. A learning system that can't be told 'enough' isn't assisting, it's nagging with a model attached.
 
-Reference: https://aiuxdesign.guide/patterns/contextual-assistance
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/contextual-assistance

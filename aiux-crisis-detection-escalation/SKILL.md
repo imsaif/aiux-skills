@@ -15,6 +15,6 @@ Why it matters: AI systems fail to respond appropriately to crisis signals, some
 4. **Over-triggering is its own failure.** An alarm that fires at every mention of sadness teaches people that honesty gets them shut down, so they learn to hide the signals you most need to see. Watch your false-positive rate as closely as your miss rate. A system everyone routes around protects no one.
 5. **Treat detection thresholds as clinical decisions, and log the seams.** Where to draw the line between distress and crisis is not a product call to make alone; review thresholds with people trained in this. Log every escalation for safety review, never raw content beyond what that review needs, and never explain the detection method to users, since that just teaches evasion.
 
-Reference: https://aiuxdesign.guide/patterns/crisis-detection-escalation
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/crisis-detection-escalation

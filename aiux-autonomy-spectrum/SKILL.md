@@ -15,6 +15,6 @@ Why it matters: Traditional AI controls are binary - the AI is either on or off.
 4. **Default low, earn the rest.** Start new users and new domains at the cautious end and let demonstrated reliability unlock the higher levels. Defaulting everyone to high autonomy because it demos well is the fastest way to burn trust the first time the agent is wrong.
 5. **Show the current level where the action happens.** The user should never have to guess whether the agent will ask first. Surface the active level at the point of action, not buried three screens deep in settings, so consent stays informed and current instead of set once and forgotten.
 
-Reference: https://aiuxdesign.guide/patterns/autonomy-spectrum
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/autonomy-spectrum

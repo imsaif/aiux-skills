@@ -15,6 +15,6 @@ Why it matters: While Intent Preview shows what the agent will do, users also ne
 4. **Say which step is the last free exit.** Mark the subtasks that cannot be undone and name the point after which stopping costs something. A plan that reads as uniformly safe gets approved with the same attention whether step four sends email to customers or writes to a scratch file.
 5. **Keep the plan alive while it runs.** Replacing it with a progress bar throws away the thing that made it useful. When a step disproves an assumption, show that against the plan, so the user sees the moment the approach stopped matching reality rather than reading it in the summary afterwards.
 
-Reference: https://aiuxdesign.guide/patterns/plan-summary
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/plan-summary
