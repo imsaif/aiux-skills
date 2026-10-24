@@ -1,6 +1,6 @@
 ---
 name: aiux-agent-reflection-learning
-description: "Use when users should see that the AI learns from their corrections: 'why does it keep making the same mistake', showing learned preferences, memory of feedback, improvement over time. Agent Reflection and Learning builds trust through visible improvement."
+description: "Use when designing or building an AI product and users should see that the AI learns from their corrections: 'why does it keep making the same mistake', showing learned preferences, memory of feedback, improvement over time. Agent Reflection and Learning builds trust through visible improvement."
 ---
 
 # Agent Reflection & Learning
@@ -17,7 +17,3 @@ Why it matters: As AI agents gain autonomy, users struggle to understand what th
 Reference: https://aiuxdesign.guide/patterns/agent-reflection-learning
 
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
-
----
-
-Generated from [aiuxdesign.guide](https://aiuxdesign.guide/?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills), a library of 38 AI UX patterns from shipped products. Full pattern with examples and demos: [https://aiuxdesign.guide/patterns/agent-reflection-learning](https://aiuxdesign.guide/patterns/agent-reflection-learning?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills). Not sure which patterns your product needs? [Run the free audit](https://aiuxdesign.guide/audit?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills).

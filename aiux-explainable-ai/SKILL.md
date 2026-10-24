@@ -1,6 +1,6 @@
 ---
 name: aiux-explainable-ai
-description: "Use when users ask why the AI decided something: 'show its reasoning', explanations for recommendations or scores, black-box complaints, debugging model decisions, transparency requirements. Explainable AI makes decisions understandable."
+description: "Use when designing or building an AI product and users ask why the AI decided something: 'show its reasoning', explanations for recommendations or scores, black-box complaints, debugging model decisions, transparency requirements. Explainable AI makes decisions understandable."
 ---
 
 # Explainable AI (XAI)
@@ -17,7 +17,3 @@ Why it matters: AI systems often act as 'black boxes,' hindering understanding o
 Reference: https://aiuxdesign.guide/patterns/explainable-ai
 
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
-
----
-
-Generated from [aiuxdesign.guide](https://aiuxdesign.guide/?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills), a library of 38 AI UX patterns from shipped products. Full pattern with examples and demos: [https://aiuxdesign.guide/patterns/explainable-ai](https://aiuxdesign.guide/patterns/explainable-ai?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills). Not sure which patterns your product needs? [Run the free audit](https://aiuxdesign.guide/audit?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills).

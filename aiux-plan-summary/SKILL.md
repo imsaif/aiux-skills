@@ -1,6 +1,6 @@
 ---
 name: aiux-plan-summary
-description: "Use when users should evaluate an agent's approach before it runs: 'why this plan', goal interpretation, subtask checklists, stated assumptions, strategy review before execution. Plan Summary exposes the reasoning so plans can be judged."
+description: "Use when designing or building an AI product and users should evaluate an agent's approach before it runs: 'why this plan', goal interpretation, subtask checklists, stated assumptions, strategy review before execution. Plan Summary exposes the reasoning so plans can be judged."
 ---
 
 # Plan Summary
@@ -18,7 +18,3 @@ Why it matters: While Intent Preview shows what the agent will do, users also ne
 Reference: https://aiuxdesign.guide/patterns/plan-summary
 
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
-
----
-
-Generated from [aiuxdesign.guide](https://aiuxdesign.guide/?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills), a library of 38 AI UX patterns from shipped products. Full pattern with examples and demos: [https://aiuxdesign.guide/patterns/plan-summary](https://aiuxdesign.guide/patterns/plan-summary?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills). Not sure which patterns your product needs? [Run the free audit](https://aiuxdesign.guide/audit?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills).

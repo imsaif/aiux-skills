@@ -1,6 +1,6 @@
 ---
 name: aiux-error-recovery
-description: "Use when the AI fails or hits something it cannot handle: error states, fallbacks, 'what happens when the model is wrong or down', retry paths, degraded modes. Error Recovery and Graceful Degradation fails clearly with a way forward."
+description: "Use when designing or building an AI product and the AI fails or hits something it cannot handle: error states, fallbacks, 'what happens when the model is wrong or down', retry paths, degraded modes. Error Recovery and Graceful Degradation fails clearly with a way forward."
 ---
 
 # Error Recovery & Graceful Degradation
@@ -18,7 +18,3 @@ Why it matters: AI systems inevitably make mistakes or encounter unhandleable si
 Reference: https://aiuxdesign.guide/patterns/error-recovery
 
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
-
----
-
-Generated from [aiuxdesign.guide](https://aiuxdesign.guide/?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills), a library of 38 AI UX patterns from shipped products. Full pattern with examples and demos: [https://aiuxdesign.guide/patterns/error-recovery](https://aiuxdesign.guide/patterns/error-recovery?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills). Not sure which patterns your product needs? [Run the free audit](https://aiuxdesign.guide/audit?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills).

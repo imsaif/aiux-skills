@@ -1,6 +1,6 @@
 ---
 name: aiux-contextual-assistance
-description: "Use when help should arrive at the moment of need, or when the help itself has become the problem: proactive tips, inline suggestions, 'users do not know what to ask', onboarding hints. Equally, when the tips themselves are the complaint: coachmarks people keep dismissing, hints that will not go away, help popping up over the thing the user is trying to read. This is the pattern for inline guidance attached to what the user is doing right now, not for pre-filling their next step (Predictive Anticipation) or background sensing (Ambient Intelligence)."
+description: "Use when designing or building an AI product and help should arrive at the moment of need, or when the help itself has become the problem: proactive tips, inline suggestions, 'users do not know what to ask', onboarding hints. Equally, when the tips themselves are the complaint: coachmarks people keep dismissing, hints that will not go away, help popping up over the thing the user is trying to read. This is the pattern for inline guidance attached to what the user is doing right now, not for pre-filling their next step (Predictive Anticipation) or background sensing (Ambient Intelligence)."
 ---
 
 # Contextual Assistance
@@ -18,7 +18,3 @@ Why it matters: Users need guidance but often don't know what or when to ask. Tr
 Reference: https://aiuxdesign.guide/patterns/contextual-assistance
 
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
-
----
-
-Generated from [aiuxdesign.guide](https://aiuxdesign.guide/?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills), a library of 38 AI UX patterns from shipped products. Full pattern with examples and demos: [https://aiuxdesign.guide/patterns/contextual-assistance](https://aiuxdesign.guide/patterns/contextual-assistance?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills). Not sure which patterns your product needs? [Run the free audit](https://aiuxdesign.guide/audit?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills).

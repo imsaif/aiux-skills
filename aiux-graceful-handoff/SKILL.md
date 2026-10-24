@@ -1,6 +1,6 @@
 ---
 name: aiux-graceful-handoff
-description: "Use when control passes between AI and human: taking over from automation, 'let me finish this manually', resuming automation after manual edits, no lost progress at the switch. Graceful Handoff makes transitions seamless in both directions."
+description: "Use when designing or building an AI product and control passes between AI and human: taking over from automation, 'let me finish this manually', resuming automation after manual edits, no lost progress at the switch. Graceful Handoff makes transitions seamless in both directions."
 ---
 
 # Graceful Handoff
@@ -18,7 +18,3 @@ Why it matters: Users feel trapped by automation or lose progress when switching
 Reference: https://aiuxdesign.guide/patterns/graceful-handoff
 
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
-
----
-
-Generated from [aiuxdesign.guide](https://aiuxdesign.guide/?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills), a library of 38 AI UX patterns from shipped products. Full pattern with examples and demos: [https://aiuxdesign.guide/patterns/graceful-handoff](https://aiuxdesign.guide/patterns/graceful-handoff?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills). Not sure which patterns your product needs? [Run the free audit](https://aiuxdesign.guide/audit?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills).

@@ -1,6 +1,6 @@
 ---
 name: aiux-crisis-detection-escalation
-description: "Use when users might express self-harm or crisis: suicide or harm signals in messages, 'what if a user says something alarming', hotline resources, escalation to humans. Crisis Detection and Escalation routes people to real help immediately."
+description: "Use when designing or building an AI product that may receive messages about self-harm or crisis: how the product spots risk signals, which current hotline or human it routes the person to, and how escalation works. Design guidance for Crisis Detection and Escalation in the product being built; it does not respond to anyone in crisis itself."
 ---
 
 # Crisis Detection & Escalation
@@ -18,7 +18,3 @@ Why it matters: AI systems fail to respond appropriately to crisis signals, some
 Reference: https://aiuxdesign.guide/patterns/crisis-detection-escalation
 
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
-
----
-
-Generated from [aiuxdesign.guide](https://aiuxdesign.guide/?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills), a library of 38 AI UX patterns from shipped products. Full pattern with examples and demos: [https://aiuxdesign.guide/patterns/crisis-detection-escalation](https://aiuxdesign.guide/patterns/crisis-detection-escalation?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills). Not sure which patterns your product needs? [Run the free audit](https://aiuxdesign.guide/audit?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills).

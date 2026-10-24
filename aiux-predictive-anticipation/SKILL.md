@@ -1,6 +1,6 @@
 ---
 name: aiux-predictive-anticipation
-description: "Use when the product should act before the user asks, or when it already anticipates too much: suggesting next actions, pre-loading likely content, 'it should know what I need next', smart defaults from behavior. Equally, when the prediction itself is the complaint: 'it keeps autofilling things nobody asked for', fields pre-filled with the wrong guess, an action committed that should only have been staged. This is the pattern for pre-filling and pre-staging the user's next step, not for background sensing (Ambient Intelligence) or inline tips (Contextual Assistance)."
+description: "Use when designing or building an AI product and the product should act before the user asks, or when it already anticipates too much: suggesting next actions, pre-loading likely content, 'it should know what I need next', smart defaults from behavior. Equally, when the prediction itself is the complaint: 'it keeps autofilling things nobody asked for', fields pre-filled with the wrong guess, an action committed that should only have been staged. This is the pattern for pre-filling and pre-staging the user's next step, not for background sensing (Ambient Intelligence) or inline tips (Contextual Assistance)."
 ---
 
 # Predictive Anticipation
@@ -18,7 +18,3 @@ Why it matters: Users waste time waiting for content or searching for next actio
 Reference: https://aiuxdesign.guide/patterns/predictive-anticipation
 
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
-
----
-
-Generated from [aiuxdesign.guide](https://aiuxdesign.guide/?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills), a library of 38 AI UX patterns from shipped products. Full pattern with examples and demos: [https://aiuxdesign.guide/patterns/predictive-anticipation](https://aiuxdesign.guide/patterns/predictive-anticipation?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills). Not sure which patterns your product needs? [Run the free audit](https://aiuxdesign.guide/audit?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills).
