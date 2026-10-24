@@ -1,6 +1,6 @@
 ---
 name: aiux-ambient-intelligence
-description: "Use when help should appear from context without being asked, or when that background help has become intrusive: proactive assistance, sensing situation or environment, 'it should just know'. Equally, when that sensing is the complaint: 'it keeps acting on its own', the product changing something because it read the room wrong, automation firing when the user was not even in the app. This is the pattern for acting on sensed environment with no user action at all, not for pre-filling the next step (Predictive Anticipation) or inline tips (Contextual Assistance)."
+description: "Use when designing or building an AI product and help should appear from context without being asked, or when that background help has become intrusive: proactive assistance, sensing situation or environment, 'it should just know'. Equally, when that sensing is the complaint: 'it keeps acting on its own', the product changing something because it read the room wrong, automation firing when the user was not even in the app. This is the pattern for acting on sensed environment with no user action at all, not for pre-filling the next step (Predictive Anticipation) or inline tips (Contextual Assistance)."
 ---
 
 # Ambient Intelligence
@@ -18,7 +18,3 @@ Why it matters: Users need intelligent assistance without cognitive overhead, es
 Reference: https://aiuxdesign.guide/patterns/ambient-intelligence
 
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
-
----
-
-Generated from [aiuxdesign.guide](https://aiuxdesign.guide/?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills), a library of 38 AI UX patterns from shipped products. Full pattern with examples and demos: [https://aiuxdesign.guide/patterns/ambient-intelligence](https://aiuxdesign.guide/patterns/ambient-intelligence?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills). Not sure which patterns your product needs? [Run the free audit](https://aiuxdesign.guide/audit?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills).

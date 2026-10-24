@@ -1,6 +1,6 @@
 ---
 name: aiux-progressive-disclosure
-description: "Use when a UI shows too much at once or advanced options bury the basics: overwhelming settings, cluttered toolbars, 'simplify this screen', show-more reveals, casual vs power users. Progressive Disclosure reveals complexity only as it is needed."
+description: "Use when designing or building an AI product and a UI shows too much at once or advanced options bury the basics: overwhelming settings, cluttered toolbars, 'simplify this screen', show-more reveals, casual vs power users. Progressive Disclosure reveals complexity only as it is needed."
 ---
 
 # Progressive Disclosure
@@ -18,7 +18,3 @@ Why it matters: Complex AI features shown all at once can overwhelm users, causi
 Reference: https://aiuxdesign.guide/patterns/progressive-disclosure
 
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
-
----
-
-Generated from [aiuxdesign.guide](https://aiuxdesign.guide/?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills), a library of 38 AI UX patterns from shipped products. Full pattern with examples and demos: [https://aiuxdesign.guide/patterns/progressive-disclosure](https://aiuxdesign.guide/patterns/progressive-disclosure?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills). Not sure which patterns your product needs? [Run the free audit](https://aiuxdesign.guide/audit?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills).

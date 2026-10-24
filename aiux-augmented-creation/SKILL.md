@@ -1,6 +1,6 @@
 ---
 name: aiux-augmented-creation
-description: "Use when AI helps people make content rather than making it for them: co-writing, draft generation with human editing, creative tools, AI-assisted design or writing. Augmented Creation keeps the user as the author with AI as collaborator."
+description: "Use when designing or building an AI product and AI helps people make content rather than making it for them: co-writing, draft generation with human editing, creative tools, AI-assisted design or writing. Augmented Creation keeps the user as the author with AI as collaborator."
 ---
 
 # Augmented Creation
@@ -18,7 +18,3 @@ Why it matters: Content creation is time-consuming, especially with creative blo
 Reference: https://aiuxdesign.guide/patterns/augmented-creation
 
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
-
----
-
-Generated from [aiuxdesign.guide](https://aiuxdesign.guide/?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills), a library of 38 AI UX patterns from shipped products. Full pattern with examples and demos: [https://aiuxdesign.guide/patterns/augmented-creation](https://aiuxdesign.guide/patterns/augmented-creation?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills). Not sure which patterns your product needs? [Run the free audit](https://aiuxdesign.guide/audit?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills).

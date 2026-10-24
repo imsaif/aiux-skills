@@ -1,6 +1,6 @@
 ---
 name: aiux-agent-status-monitoring
-description: "Use when users need to follow long-running AI work without watching it: progress for background agents, 'what is the agent doing now', status badges, task dashboards, notifications when input is needed. Agent Status and Monitoring keeps users informed at the right level of attention."
+description: "Use when designing or building an AI product and users need to follow long-running AI work without watching it: progress for background agents, 'what is the agent doing now', status badges, task dashboards, notifications when input is needed. Agent Status and Monitoring keeps users informed at the right level of attention."
 ---
 
 # Agent Status & Monitoring
@@ -18,7 +18,3 @@ Why it matters: Traditional loading indicators don't work for agentic tasks that
 Reference: https://aiuxdesign.guide/patterns/agent-status-monitoring
 
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
-
----
-
-Generated from [aiuxdesign.guide](https://aiuxdesign.guide/?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills), a library of 38 AI UX patterns from shipped products. Full pattern with examples and demos: [https://aiuxdesign.guide/patterns/agent-status-monitoring](https://aiuxdesign.guide/patterns/agent-status-monitoring?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills). Not sure which patterns your product needs? [Run the free audit](https://aiuxdesign.guide/audit?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills).

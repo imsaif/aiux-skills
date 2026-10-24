@@ -1,6 +1,6 @@
 ---
 name: aiux-responsible-ai-design
-description: "Use when fairness, bias, or accountability is at stake: bias audits, 'could this harm or exclude someone', ethical review of AI decisions, accountability for automated outcomes. Responsible AI Design builds these checks into the lifecycle."
+description: "Use when designing or building an AI product and fairness, bias, or accountability is at stake: bias audits, 'could this harm or exclude someone', ethical review of AI decisions, accountability for automated outcomes. Responsible AI Design builds these checks into the lifecycle."
 ---
 
 # Responsible AI Design
@@ -18,7 +18,3 @@ Why it matters: AI systems can perpetuate biases, make unfair decisions, or caus
 Reference: https://aiuxdesign.guide/patterns/responsible-ai-design
 
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
-
----
-
-Generated from [aiuxdesign.guide](https://aiuxdesign.guide/?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills), a library of 38 AI UX patterns from shipped products. Full pattern with examples and demos: [https://aiuxdesign.guide/patterns/responsible-ai-design](https://aiuxdesign.guide/patterns/responsible-ai-design?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills). Not sure which patterns your product needs? [Run the free audit](https://aiuxdesign.guide/audit?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills).

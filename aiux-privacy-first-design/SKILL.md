@@ -1,6 +1,6 @@
 ---
 name: aiux-privacy-first-design
-description: "Use when handling user data in an AI product: consent, data minimization, 'what does the AI store about me', transparent privacy controls, trust concerns about collection. Privacy-First Design collects less and explains clearly."
+description: "Use when designing or building how an AI product handles user data: consent, data minimization, 'what does the AI store about me', transparent privacy controls, trust concerns about collection. Privacy-First Design collects less and explains clearly."
 ---
 
 # Privacy-First Design
@@ -18,7 +18,3 @@ Why it matters: Users are increasingly concerned about AI systems collecting and
 Reference: https://aiuxdesign.guide/patterns/privacy-first-design
 
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
-
----
-
-Generated from [aiuxdesign.guide](https://aiuxdesign.guide/?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills), a library of 38 AI UX patterns from shipped products. Full pattern with examples and demos: [https://aiuxdesign.guide/patterns/privacy-first-design](https://aiuxdesign.guide/patterns/privacy-first-design?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills). Not sure which patterns your product needs? [Run the free audit](https://aiuxdesign.guide/audit?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills).

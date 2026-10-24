@@ -1,6 +1,6 @@
 ---
 name: aiux-conversational-ui
-description: "Use when designing chat or voice interaction: chatbots, assistants, message threads, composer design, 'talk to the app in plain language', turn-taking and context in conversation. Conversational UI makes dialogue feel natural instead of robotic."
+description: "Use when designing or building chat or voice interaction for an AI product: chatbots, assistants, message threads, composer design, 'talk to the app in plain language', turn-taking and context in conversation. Conversational UI makes dialogue feel natural instead of robotic."
 ---
 
 # Conversational UI
@@ -18,7 +18,3 @@ Why it matters: Traditional graphical interfaces require users to learn specific
 Reference: https://aiuxdesign.guide/patterns/conversational-ui
 
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
-
----
-
-Generated from [aiuxdesign.guide](https://aiuxdesign.guide/?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills), a library of 38 AI UX patterns from shipped products. Full pattern with examples and demos: [https://aiuxdesign.guide/patterns/conversational-ui](https://aiuxdesign.guide/patterns/conversational-ui?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills). Not sure which patterns your product needs? [Run the free audit](https://aiuxdesign.guide/audit?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills).

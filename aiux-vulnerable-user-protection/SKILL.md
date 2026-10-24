@@ -1,6 +1,6 @@
 ---
 name: aiux-vulnerable-user-protection
-description: "Use when minors or at-risk users may be present: age gating, dependency risks, mental-health-sensitive contexts, 'what if a teenager uses this', graduated protections. Vulnerable User Protection detects vulnerability and adjusts safeguards."
+description: "Use when designing or building an AI product that minors or at-risk people may use: age gating, dependency risks, mental-health-sensitive contexts, graduated protections. Design guidance for Vulnerable User Protection: how the product being built should recognise risk and adjust its safeguards."
 ---
 
 # Vulnerable User Protection
@@ -19,7 +19,3 @@ Why it matters: Systems fail to protect minors, crisis users, and those with men
 Reference: https://aiuxdesign.guide/patterns/vulnerable-user-protection
 
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
-
----
-
-Generated from [aiuxdesign.guide](https://aiuxdesign.guide/?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills), a library of 38 AI UX patterns from shipped products. Full pattern with examples and demos: [https://aiuxdesign.guide/patterns/vulnerable-user-protection](https://aiuxdesign.guide/patterns/vulnerable-user-protection?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills). Not sure which patterns your product needs? [Run the free audit](https://aiuxdesign.guide/audit?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills).

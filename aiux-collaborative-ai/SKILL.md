@@ -1,6 +1,6 @@
 ---
 name: aiux-collaborative-ai
-description: "Use when several people and an AI share one workflow: team workspaces with AI, shared documents or channels, 'AI in our group project', coordinating human and AI contributions. Collaborative AI keeps teams coordinated while AI participates."
+description: "Use when designing or building an AI product and several people and an AI share one workflow: team workspaces with AI, shared documents or channels, 'AI in our group project', coordinating human and AI contributions. Collaborative AI keeps teams coordinated while AI participates."
 ---
 
 # Collaborative AI
@@ -18,7 +18,3 @@ Why it matters: Teams need effective AI collaboration while maintaining coordina
 Reference: https://aiuxdesign.guide/patterns/collaborative-ai
 
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
-
----
-
-Generated from [aiuxdesign.guide](https://aiuxdesign.guide/?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills), a library of 38 AI UX patterns from shipped products. Full pattern with examples and demos: [https://aiuxdesign.guide/patterns/collaborative-ai](https://aiuxdesign.guide/patterns/collaborative-ai?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills). Not sure which patterns your product needs? [Run the free audit](https://aiuxdesign.guide/audit?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills).

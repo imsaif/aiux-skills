@@ -1,6 +1,6 @@
 ---
 name: aiux-adaptive-interfaces
-description: "Use when the UI should adjust to how each person uses it, or when that adaptation has gone wrong: personalized layouts, reordering features by usage, 'the app should learn what I use most'. Equally: 'the layout keeps moving', controls that vanish because usage dropped, 'it changed and now I cannot find anything'. Adaptive Interfaces tune layout to behavior without destabilizing it."
+description: "Use when designing or building an AI product and the UI should adjust to how each person uses it, or when that adaptation has gone wrong: personalized layouts, reordering features by usage, 'the app should learn what I use most'. Equally: 'the layout keeps moving', controls that vanish because usage dropped, 'it changed and now I cannot find anything'. Adaptive Interfaces tune layout to behavior without destabilizing it."
 ---
 
 # Adaptive Interfaces
@@ -18,7 +18,3 @@ Why it matters: Static interfaces treat all users identically, leading to ineffi
 Reference: https://aiuxdesign.guide/patterns/adaptive-interfaces
 
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
-
----
-
-Generated from [aiuxdesign.guide](https://aiuxdesign.guide/?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills), a library of 38 AI UX patterns from shipped products. Full pattern with examples and demos: [https://aiuxdesign.guide/patterns/adaptive-interfaces](https://aiuxdesign.guide/patterns/adaptive-interfaces?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills). Not sure which patterns your product needs? [Run the free audit](https://aiuxdesign.guide/audit?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills).

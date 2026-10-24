@@ -6,7 +6,13 @@ A skill is persistent design guidance for your coding agent: install it once and
 
 ## Install
 
-All of them:
+In Claude Code, as a plugin (all 38 skills, updates with the plugin):
+
+```
+/plugin install aiux --marketplace imsaif/aiux-skills
+```
+
+Or with the skills CLI, all of them:
 
 ```bash
 npx skills add imsaif/aiux-skills

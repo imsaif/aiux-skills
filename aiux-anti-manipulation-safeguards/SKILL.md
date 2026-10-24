@@ -1,6 +1,6 @@
 ---
 name: aiux-anti-manipulation-safeguards
-description: "Use when users may disguise harmful requests: jailbreak attempts, 'it is just fiction or roleplay or hypothetical' framing, prompt manipulation, safety bypasses. Anti-Manipulation Safeguards detect real intent behind the framing."
+description: "Use when designing or building the safety layer of an AI product against disguised harmful requests: jailbreak attempts, fiction or roleplay framing, prompt manipulation, safety bypasses. Design guidance for Anti-Manipulation Safeguards: how the product being built should judge intent consistently whatever the framing."
 ---
 
 # Anti-Manipulation Safeguards
@@ -18,7 +18,3 @@ Why it matters: Users bypass safety with 'fiction research,' 'roleplay,' 'hypoth
 Reference: https://aiuxdesign.guide/patterns/anti-manipulation-safeguards
 
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
-
----
-
-Generated from [aiuxdesign.guide](https://aiuxdesign.guide/?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills), a library of 38 AI UX patterns from shipped products. Full pattern with examples and demos: [https://aiuxdesign.guide/patterns/anti-manipulation-safeguards](https://aiuxdesign.guide/patterns/anti-manipulation-safeguards?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills). Not sure which patterns your product needs? [Run the free audit](https://aiuxdesign.guide/audit?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills).

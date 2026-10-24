@@ -1,6 +1,6 @@
 ---
 name: aiux-workspace-native-agents
-description: "Use when AI should live inside an existing tool rather than beside it: 'stop making users switch to a chat app', embedded copilots in editors or CRMs, in-context actions, meeting users where they work. Workspace-Native Agent Integration removes context-switching overhead."
+description: "Use when designing or building an AI product and AI should live inside an existing tool rather than beside it: 'stop making users switch to a chat app', embedded copilots in editors or CRMs, in-context actions, meeting users where they work. Workspace-Native Agent Integration removes context-switching overhead."
 ---
 
 # Workspace-Native Agent Integration
@@ -17,7 +17,3 @@ Why it matters: AI agents are being added to existing professional tools but fee
 Reference: https://aiuxdesign.guide/patterns/workspace-native-agents
 
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
-
----
-
-Generated from [aiuxdesign.guide](https://aiuxdesign.guide/?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills), a library of 38 AI UX patterns from shipped products. Full pattern with examples and demos: [https://aiuxdesign.guide/patterns/workspace-native-agents](https://aiuxdesign.guide/patterns/workspace-native-agents?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills). Not sure which patterns your product needs? [Run the free audit](https://aiuxdesign.guide/audit?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills).

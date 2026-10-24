@@ -1,6 +1,6 @@
 ---
 name: aiux-human-in-the-loop
-description: "Use when AI output needs human review, approval, or sign-off before it takes effect or reaches someone: approval queues, 'a person checks before send', moderation of AI answers, override and reject controls. Human-in-the-Loop keeps automation accountable to human judgment."
+description: "Use when designing or building an AI product and AI output needs human review, approval, or sign-off before it takes effect or reaches someone: approval queues, 'a person checks before send', moderation of AI answers, override and reject controls. Human-in-the-Loop keeps automation accountable to human judgment."
 ---
 
 # Human-in-the-Loop
@@ -18,7 +18,3 @@ Why it matters: Fully automated AI systems risk critical errors and lack transpa
 Reference: https://aiuxdesign.guide/patterns/human-in-the-loop
 
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
-
----
-
-Generated from [aiuxdesign.guide](https://aiuxdesign.guide/?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills), a library of 38 AI UX patterns from shipped products. Full pattern with examples and demos: [https://aiuxdesign.guide/patterns/human-in-the-loop](https://aiuxdesign.guide/patterns/human-in-the-loop?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills). Not sure which patterns your product needs? [Run the free audit](https://aiuxdesign.guide/audit?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills).

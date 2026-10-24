@@ -1,6 +1,6 @@
 ---
 name: aiux-session-degradation-prevention
-description: "Use when long conversations erode safety or quality: multi-hour chats, 'the AI gets too agreeable over time', boundary drift, session limits and refreshed checks. Session Degradation Prevention keeps late-session behavior as safe as the first message."
+description: "Use when designing or building an AI product with long conversations where safety or quality can erode: multi-hour chats, an assistant that grows more agreeable over time, boundary drift, session limits and refreshed checks. Design guidance for Session Degradation Prevention: how the product being built keeps late-session behaviour as careful as the first message."
 ---
 
 # Session Degradation Prevention
@@ -18,7 +18,3 @@ Why it matters: AI safety weakens during extended conversations - the system bec
 Reference: https://aiuxdesign.guide/patterns/session-degradation-prevention
 
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
-
----
-
-Generated from [aiuxdesign.guide](https://aiuxdesign.guide/?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills), a library of 38 AI UX patterns from shipped products. Full pattern with examples and demos: [https://aiuxdesign.guide/patterns/session-degradation-prevention](https://aiuxdesign.guide/patterns/session-degradation-prevention?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills). Not sure which patterns your product needs? [Run the free audit](https://aiuxdesign.guide/audit?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills).

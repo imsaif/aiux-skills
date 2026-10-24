@@ -1,6 +1,6 @@
 ---
 name: aiux-universal-access-patterns
-description: "Use when the AI product must work for everyone: screen readers, low literacy, language diversity, motor differences, 'is this accessible', assistive technology support. Universal Access Patterns remove ability and language barriers."
+description: "Use when designing or building an AI product that must work for everyone: screen readers, low literacy, language diversity, motor differences, 'is this accessible', assistive technology support. Universal Access Patterns remove ability and language barriers."
 ---
 
 # Universal Access Patterns
@@ -18,7 +18,3 @@ Why it matters: Many AI interfaces are designed for able-bodied, literate users 
 Reference: https://aiuxdesign.guide/patterns/universal-access-patterns
 
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
-
----
-
-Generated from [aiuxdesign.guide](https://aiuxdesign.guide/?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills), a library of 38 AI UX patterns from shipped products. Full pattern with examples and demos: [https://aiuxdesign.guide/patterns/universal-access-patterns](https://aiuxdesign.guide/patterns/universal-access-patterns?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills). Not sure which patterns your product needs? [Run the free audit](https://aiuxdesign.guide/audit?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills).

@@ -1,6 +1,6 @@
 ---
 name: aiux-escalation-pathways
-description: "Use when an agent should stop and ask a human: 'the agent should check with me when unsure', handoff on ambiguity or missing permissions, approval requests mid-task, avoiding both constant interruptions and silent guessing. Escalation Pathways structure when and how agents ask for guidance."
+description: "Use when designing or building an AI product and an agent should stop and ask a human: 'the agent should check with me when unsure', handoff on ambiguity or missing permissions, approval requests mid-task, avoiding both constant interruptions and silent guessing. Escalation Pathways structure when and how agents ask for guidance."
 ---
 
 # Escalation Pathways
@@ -18,7 +18,3 @@ Why it matters: Agents encounter situations they can't handle - ambiguity, confl
 Reference: https://aiuxdesign.guide/patterns/escalation-pathways
 
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
-
----
-
-Generated from [aiuxdesign.guide](https://aiuxdesign.guide/?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills), a library of 38 AI UX patterns from shipped products. Full pattern with examples and demos: [https://aiuxdesign.guide/patterns/escalation-pathways](https://aiuxdesign.guide/patterns/escalation-pathways?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills). Not sure which patterns your product needs? [Run the free audit](https://aiuxdesign.guide/audit?utm_source=github&utm_medium=skills-repo&utm_campaign=aiux-skills).
