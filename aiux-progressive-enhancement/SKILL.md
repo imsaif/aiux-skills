@@ -15,6 +15,6 @@ Why it matters: AI systems often require significant time to generate high-quali
 4. **Speed is the only reason to tier. Respect it.** You split a response into stages to trade a blank wait for a useful partial. If the result is already fast or atomic, tiering just buys shimmer and reflow. Tier where the wait is real, and nowhere else.
 5. **Say which tier the user is looking at.** An unlabeled stream leaves people unsure whether the answer is done or still cooking, so they either wait too long or act too early. Mark the current tier, signal when more is coming, and give them a way to stop at 'good enough.'
 
-Reference: https://aiuxdesign.guide/patterns/progressive-enhancement
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/progressive-enhancement

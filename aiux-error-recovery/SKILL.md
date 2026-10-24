@@ -15,6 +15,6 @@ Why it matters: AI systems inevitably make mistakes or encounter unhandleable si
 4. **Make 'try again' actually different.** Retry on an unchanged input only reproduces the failure. Either change something (rephrase, adjust, route differently) or tell the user what to change. A button that repeats the same error is a trap dressed as a lifeline.
 5. **Catch the error, don't swallow it.** A friendlier message that hides the real failure from your logs is worse than the raw error: the user is still stuck and now you're blind to it. Recover gracefully on screen and surface the truth to monitoring.
 
-Reference: https://aiuxdesign.guide/patterns/error-recovery
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/error-recovery

@@ -15,6 +15,6 @@ Why it matters: Users need intelligent assistance without cognitive overhead, es
 4. **Make the off-switch obvious.** Ambient AI that can't be quieted is a system people learn to resent. Put the pause and disable controls near where the behavior appears, not buried three screens deep. Easy to turn off is what makes it safe to leave on.
 5. **Quiet is a feature, not the whole pattern.** Being unobtrusive is the easy half. The hard half is staying accountable while invisible. The best ambient AI is the one you forget is running and can still, at any moment, ask 'what did you just do and why' and get a straight answer.
 
-Reference: https://aiuxdesign.guide/patterns/ambient-intelligence
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/ambient-intelligence

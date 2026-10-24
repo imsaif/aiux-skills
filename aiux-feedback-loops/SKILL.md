@@ -15,6 +15,6 @@ Why it matters: AI systems remain static despite user interactions, failing to l
 4. **Let users undo what the system learned.** Adaptation with no reset is its own trap: one odd day of clicks and the model misreads someone for good. A visible 'forget this' is what makes a learning system safe to opt into instead of something to fight.
 5. **Decide whose feedback counts before you wire it up.** Naive loops overfit to the loudest user, build filter bubbles, and reward deliberate poisoning. Weight it, aggregate it, and guard the input, or your loop will learn the wrong lesson with total confidence.
 
-Reference: https://aiuxdesign.guide/patterns/feedback-loops
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/feedback-loops

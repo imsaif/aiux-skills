@@ -15,6 +15,6 @@ Why it matters: Content creation is time-consuming, especially with creative blo
 4. **Widen the option space, then get out of the way.** The best augmentation hands you three directions you wouldn't have reached alone and lets you pick. Not one polished answer you're nudged to accept. Divergence is the gift the AI gives; convergence is the user's job to keep.
 5. **Protect the skill you're augmenting.** If the tool does all of it, the user's own ability rots, and so does their judgment about whether the output is any good. Leave enough of the work in human hands that they stay sharp enough to catch the AI when it's wrong.
 
-Reference: https://aiuxdesign.guide/patterns/augmented-creation
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/augmented-creation

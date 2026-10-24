@@ -15,6 +15,6 @@ Why it matters: Many AI interfaces are designed for able-bodied, literate users 
 4. **One product, not a second-class lane.** A separate 'accessible version' drifts out of date the moment the main UI ships a change, and now you maintain two broken things. Build complexity toggles and language switches on the same DOM so access stays in sync with the product people actually use.
 5. **A green scanner is necessary, never sufficient.** Automated checks catch missing alt text and contrast failures, which is the floor. They cannot tell you the focus order is nonsense or the label lies. Test the task end to end with a real screen reader and keyboard before you call it accessible.
 
-Reference: https://aiuxdesign.guide/patterns/universal-access-patterns
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/universal-access-patterns

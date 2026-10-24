@@ -14,6 +14,6 @@ Why it matters: AI systems often act as 'black boxes,' hindering understanding o
 3. **Make confidence legible, not decorative.** '87%' means nothing to a human deciding whether to act. 'Confident: matches 1,200 similar cases' is an explanation. A bare number is theater dressed as rigor.
 4. **Give an exit.** Every explanation needs 'this is wrong → correct or appeal.' An explanation the user can't contest is a press release. The exit is what turns transparency from a marketing claim into a feedback loop.
 
-Reference: https://aiuxdesign.guide/patterns/explainable-ai
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/explainable-ai

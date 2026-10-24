@@ -15,6 +15,6 @@ Why it matters: Users waste time waiting for content or searching for next actio
 4. **If a prediction reshapes the screen, say why.** Reordering a list or surfacing a suggestion without explanation feels like the product moving on its own. One short reason ('because you watched 3 action films') plus a one-click way to turn it down keeps anticipation feeling like help, not manipulation.
 5. **Anticipating the familiar is a filter bubble.** Predict only what the user already does and you slowly wall them inside their own past. Leave room for the unexpected, and treat 'I never want this prediction again' as a first-class control, not a buried setting.
 
-Reference: https://aiuxdesign.guide/patterns/predictive-anticipation
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/predictive-anticipation

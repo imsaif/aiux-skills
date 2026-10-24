@@ -15,6 +15,6 @@ Why it matters: AI systems remember information without user visibility or contr
 4. **Make memory's influence visible at the moment it acts.** A settings page buried three menus deep is not control. When an answer leans on a stored memory, show which one, right there, with a one-click 'this is wrong, forget it.' Control the user can reach mid-conversation beats a dashboard they have to go hunting for.
 5. **Forgetting is a feature, not a failure.** Teams treat deletion as data loss to be discouraged with friction and 'are you sure' walls. In a memory product the opposite is true: a clean, trusted forget is what makes users comfortable telling the AI anything in the first place. The off switch is what sells the on switch.
 
-Reference: https://aiuxdesign.guide/patterns/selective-memory
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/selective-memory

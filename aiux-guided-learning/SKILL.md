@@ -15,6 +15,6 @@ Why it matters: Complex AI systems overwhelm users with too many options, causin
 4. **Make leaving free.** Skip has to be as prominent as Next and has to keep the work done so far. The moment exiting costs progress, people finish the flow to protect their work rather than because it is helping them, and your completion metric stops meaning anything.
 5. **Measure whether they can do it again alone.** The only honest test is unaided repeat performance, compared against people who skipped the tutorial. Completion rate measures how well you built a corridor, not whether anyone can walk without it.
 
-Reference: https://aiuxdesign.guide/patterns/guided-learning
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/guided-learning

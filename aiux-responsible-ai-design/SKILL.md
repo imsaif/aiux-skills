@@ -15,6 +15,6 @@ Why it matters: AI systems can perpetuate biases, make unfair decisions, or caus
 4. **Accountability means a decision is reconstructable later.** When a bad outcome surfaces months after launch, can you say who decided, on what inputs, with which model version, and who signed off? If the answer lives only in someone's memory, you don't have accountability, you have a story. Persist the chain so it survives the people who built it.
 5. **The affected person needs a door, not a badge.** The user on the wrong end of a high-stakes decision doesn't need to see your principles. They need a contest path that reaches a human and shows the same evidence the system used. An appeal button that goes nowhere is the trap wearing the costume of the cure.
 
-Reference: https://aiuxdesign.guide/patterns/responsible-ai-design
-
 When this applies, make the smallest change that genuinely realises the pattern. Do not add UI the product does not need, and say what you changed and why.
+
+Reference: https://aiuxdesign.guide/patterns/responsible-ai-design
